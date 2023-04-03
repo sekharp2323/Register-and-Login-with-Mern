@@ -1,0 +1,4 @@
+.finputs{
+    display: flex;
+    flex-direction: column;
+}
